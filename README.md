@@ -1,5 +1,5 @@
 # WordPress
-It's an another single WordPress for few script information
+Latest WordPress version 9.7.4
 
 
 
@@ -32,15 +32,8 @@ It's an another single WordPress for few script information
 
 ## Table of contents
 
-- [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
 - [Copyright and license](#copyright-and-license)
 
 
@@ -82,3 +75,15 @@ wordpress/
 
 ```
 
+## Copyright and license
+
+  <p align="center">
+    Digital Millennium Copyright Act (DMCA) Notice
+    <br>
+    <a href="https://codex.wordpress.org/"><strong>Copyright and license »</strong></a>
+    <br>
+    <br>
+    <a href="https://automattic.com/dmca-notice/">Digital Millennium Copyright Act</a>
+    <a href="https://developer.wordpress.org/">Developer</a>
+  </p>
+</p>
