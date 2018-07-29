@@ -1,7 +1,3 @@
-# WordPress
-Latest WordPress version 9.7.4
-
-
 ## Status
 
 <p align="center">
