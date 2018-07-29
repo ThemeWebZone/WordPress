@@ -78,8 +78,6 @@ wordpress/
 ## Copyright and license
 
   <p>
-    Digital Millennium Copyright Act (DMCA) Notice
-    <br>
     <a href="https://codex.wordpress.org/"><strong>Copyright and license »</strong></a>
     <a href="https://automattic.com/dmca-notice/">Digital Millennium Copyright Act</a>
      »
