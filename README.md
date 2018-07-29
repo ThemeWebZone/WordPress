@@ -82,5 +82,6 @@ wordpress/
     <br>
     <a href="https://codex.wordpress.org/"><strong>Copyright and license »</strong></a>
     <a href="https://automattic.com/dmca-notice/">Digital Millennium Copyright Act</a>
+     »
     <a href="https://developer.wordpress.org/">Developer</a>
 </p>
