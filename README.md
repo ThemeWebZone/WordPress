@@ -80,5 +80,5 @@ wordpress/
   <p>
     <a href="https://codex.wordpress.org/"><strong>Wordpress »</strong></a>
     <a href="https://automattic.com/dmca-notice/"><strong>DMCA Notice »</strong></a>
-    <a href="https://developer.wordpress.org/">Developer</a>
+    <a href="https://developer.wordpress.org/"><strong>Developer</strong></a>
 </p>
