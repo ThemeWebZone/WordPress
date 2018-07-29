@@ -5,7 +5,7 @@ It's an another single WordPress for few script information
 
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://image.freepik.com/free-icon/wordpress-logo_318-33553.jpg" alt="Bootstrap logo" width=353 height=353>
+    <img src="https://image.freepik.com/free-icon/wordpress-logo_318-33553.jpg" alt="Bootstrap logo" width=77 height=77>
   </a>
 
   <h3 align="center">Bootstrap</h3>
